@@ -5,7 +5,8 @@ This repository automates the provisioning of infrastructure, web applications, 
 
 
 ## Infrastructure Diagram:
-<img width="812" alt="Screenshot 2024-09-09 at 10 22 40 AM" src="https://github.com/user-attachments/assets/b4d39d8e-116c-4a5d-af41-d1d38cb08d88">
+<img width="827" alt="Screenshot 2024-09-09 at 12 44 30 PM" src="https://github.com/user-attachments/assets/eccadcec-4bee-4ff3-bcf3-642295a39507">
+
 
 ## Tools Used
 
