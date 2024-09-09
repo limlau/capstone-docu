@@ -7,12 +7,12 @@ Automation solution for deploying infrastructure hosted on AWS in the event of c
 
 ## Solution:
 ### Tools used
-> git
-> Terraform
-> kubectl
-> helm
-> bash
-> aws cloudshell
+- git
+- Terraform
+- kubectl
+- helm
+- bash
+- aws cloudshell
 
 ### Script Process
 <img width="737" alt="Screenshot 2024-09-09 at 10 23 07 AM" src="https://github.com/user-attachments/assets/a66fc3cc-1bd7-4985-b69c-86fddee87562">
